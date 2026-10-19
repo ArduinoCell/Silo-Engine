@@ -1,0 +1,1 @@
+g++ main.c++ -o build/main $(pkg-config --cflags --libs sdl3)
