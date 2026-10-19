@@ -1,1 +1,1 @@
-basic sdl3 powered 3d engine
+basic sdl3 powered 2d engine
